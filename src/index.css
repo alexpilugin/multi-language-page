@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css?family=Delius');
+@import url('https://fonts.googleapis.com/css?family=Neucha');
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.App {
+    margin-top:20px;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.3);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.3);
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.3);
+}
+.content-wrapper {
+  margin: 0;
+  padding: 0;
+  width: auto;
+}
+.thought {
+  padding-bottom: 20px;
+}
+.pic {
+  position: relative;
+  float: left;
+  width: 45px;
+  height: 45px;
+  background-image: url("components/title_icons.svg");
+  background-repeat: no-repeat;
+}
+.life .pic {
+  background-position: 0 0;
+}
+.family .pic {
+  background-position-x: -52px;
+}
+.job .pic {
+  background-position-x: -108px;
+}
+.recreation .pic {
+  background-position-x: -158px;
+}
+.happiness .pic {
+  background-position-x: -217px;
+}
+.health .pic {
+  background-position-x: -269px;
+}
+.love .pic {
+  background-position-x: -322px;
+}
+.TopLine {
+  /* background-color: #fff0d1; */
+  bottom: 0;
+  padding: 15px;
+  border-bottom: 5px solid #fff0d1;;
+}
+h2.title  {
+  font-family: 'Neucha', cursive;
+}
+
+.life {
+  color: #39b54a;
+}
+.family {
+  color: #da1c5c;
+}
+.job {
+  color: #00a79d;
+}
+.recreation {
+  color: #c2c91f;
+}
+.happiness {
+  color: #fbb040;
+}
+.health {
+  color: #88ab2e;
+}
+.love {
+   color: #ed1c24;
+}
+.bottomBorder {
+  position: absolute;
+  left: 5px;
+  right: 5px;
+  bottom: 0;
+}
+.life .bottomBorder {
+  border-bottom: 5px solid #39b54a;
+}
+.family .bottomBorder {
+  border-bottom: 5px solid #da1c5c;
+}
+.job .bottomBorder {
+  border-bottom: 5px solid #00a79d;
+}
+.recreation .bottomBorder {
+  border-bottom: 5px solid #c2c91f;
+}
+.happiness .bottomBorder {
+  border-bottom: 5px solid #fbb040;
+}
+.health .bottomBorder {
+  border-bottom: 5px solid #88ab2e;
+}
+.love .bottomBorder {
+  border-bottom: 5px solid #ed1c24;
+}
+.thumbnail {
+  border: 0 none;
+  box-shadow: none;
+  margin:0;
+  padding:0;
+}
+/* for the same height 
+* ERROR in Safari
+.row {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display:         flex;
+  flex-wrap: wrap;
+}
+for the same height 
+.row > [class*='col-'] {
+  display: flex;
+  flex-direction: column;
+}
+*/
+.flex-row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.flex-row > [class*='col-'] {
+  display: flex;
+  flex-direction: column;
+}
+.flex-row.row:after, 
+.flex-row.row:before {
+  display: flex;
+}

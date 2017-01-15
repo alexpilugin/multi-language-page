@@ -1,0 +1,92 @@
+{
+    "eng": {
+        "life": {
+            "title": "life",
+            "text": "Life is the active form of existence of matter, a set of physical and chemical processes in the cell, allowing for metabolism and its division (outside the cell life does not exist). The main attribute of living matter - the genetic information used for reproduction."
+        },
+        "family": {
+             "title": "family",
+            "text": "Family is a group of people affiliated either by consanguinity (by recognized birth), affinity (by marriage or any other relationships...). In most societies, the family is the principal institution for the socialization of children."
+        },
+        "job": {
+             "title": "job",
+            "text": "A job is a person’s activity, often regular and often performed in exchange for payment. An activity that requires a person's mental or physical effort calls work."
+        },
+        "recreation": {
+             "title": "recreation",
+            "text":  "Recreation is an activity of leisure and is an essential part of human life. A significant section of recreational activities are designated as hobbies which are activities done for pleasure on a regular basis."
+        },
+        "happiness": {
+             "title": "happiness",
+            "text":  "Happiness is the human condition, which corresponds to maximum satisfaction of his internal state and conditions of existence, full compliance to human purposes and meaning of life."
+        }, 
+        "health": {
+             "title": "health",
+            "text": "Health - a state of any living organism, in which it in general and all its organs can fully perform their functions"
+        },
+        "love": {
+             "title": "love",
+            "text": "Love is a strong feeling peculiar to humans, a deep affection to another person or an object, a feeling of deep sympathy. Love is a very important factor in communications between people"
+        }
+    },
+    "руc": {
+        "life": {
+             "title": "жизнь",
+            "text": "Жизнь — активная форма существования материи, совокупность физических и химических процессов, протекающих в клетке, позволяющих осуществлять обмен веществ и её деление. Основной атрибут живой материи — генетическая информация, используемая для репликации."
+        },
+        "family": {
+             "title": "семья",
+            "text": "Семья представляет собой группу лиц, связанных либо кровным родством (по рождению), либо сродством (по браку или другими признаваемыми отношениями...). В большинстве стран, семья является основным институтом социализации детей."
+        },
+        "job":{
+             "title": "труд",
+            "text": "Труд — целесообразная, сознательная деятельность человека, направленная на удовлетворение потребностей индивида и общества. Деятельность, которая требует умственных и/или физических усилий человека называется также работой."
+        },
+        "recreation": {
+             "title": "отдых",
+            "text": "О́тдых — состояние покоя, либо времяпрепровождение, целью которого является восстановление сил, достижение работоспособного состояния организма. Вынужденное бездействие — такое, как ожидание или отбывание наказания, — отдыхом не является."
+        },
+        "happiness": {
+             "title": "счастье",
+            "text": "Сча́стье — состояние человека, которое соответствует наибольшей внутренней удовлетворённости условиями своего бытия, полноте и осмысленности жизни, осуществлению своего человеческого назначения."
+        },
+        "health": {
+             "title": "здоровье",
+            "text": "Здоро́вье — состояние любого живого организма, при котором он в целом и все его органы способны полностью выполнять свои функции;"
+        },
+        "love": {
+             "title": "любовь",
+            "text": "Любо́вь — чувство, свойственное человеку, глубокая привязанность к другому человеку или объекту, чувство глубокой симпатии. Любовь является очень важным фактором в общении между людьми."
+        }
+    },
+    "中文": {
+        "life": {
+             "title": "生命",
+            "text": "生命泛指一类具有稳定的物质和能量代谢现象并且能回应刺激、能进行自我复制（繁殖）的半开放物质系统。簡單來說，也就是由有生命機制的物体[1][2]。生命个体一定会经历出生、成长、衰老和死亡"
+        },
+        "family": {
+             "title": "家庭",
+            "text": "家庭是一種以婚姻、血緣、收養或同居等關係為基礎而形成的共同生活單位[1][A 1]由婚姻组成的家庭关系，經由生育孩童，产生出以血緣為連帶的家庭成员。除此之外，家庭也可以由收养而建立的亲子关系组成。"
+        },
+        "job":{
+             "title": "劳动",
+            "text": "劳动，从社会学和哲学的角度上来看，是指括所有人类在自然界和社会以維持生活的手段。"
+        },
+        "recreation": {
+             "title": "休閒活動",
+            "text": "休閒活動，又稱消遣，一 種在餘暇時進行的活動。通常進行消遣的動機是為了自己的快樂，而不是為了工作或一些正式的理由。在閒暇時會尋找消遣活動，被認為是一種人類的天性。"
+        },
+        "happiness": {
+             "title": "快樂",
+            "text": "快乐是一種感受良好時的情緒反應，一種能表現出愉悅心理狀態的情緒。而且常見的成因包括感到对健康、安全、愛情等之满足。快乐与幸福的区别在于，快乐常指个人的、短时间的情绪感受；幸福则涉及到与他人、家庭的长期正面的交互过程，以及对事业、生活发展的积极的体验。"
+        },
+        "health": {
+             "title": "健康",
+            "text": "健康是指生物的功能性和代謝效率的水平。對人類而言，健康是指個人或群體面臨生理、心理或社會的挑戰時，適應及自我管理的能力。世界衛生組織於1946年定義健康廣義來說是：「健康不僅為疾病或虛弱之消除，而是體格，精神與社會之完全健康狀態。"
+        },
+        "love": {
+             "title": "愛",
+            "text": "愛，通常多見於人或動物。可說是一種衍生自親人之間的強烈關愛、忠誠及善意的情感與心理狀態，如母愛。亦可為衍生自性欲與情感上的吸引力，例如情人之間的情愛與溫柔。此外，亦可能為衍生自尊敬與欽佩之情，例如朋友之間彼此重視與欣賞"
+        }
+    }
+}
