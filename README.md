@@ -3,5 +3,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [This app on my AWS account](https://goo.gl/qhgi1L)
 
-![My scalable vector icons](./src/components/title_icons.svg)
+![My scalable vector icons](multi-language-page/src/components/title_icons.svg)
 
